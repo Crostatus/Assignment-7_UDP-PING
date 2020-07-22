@@ -1,5 +1,5 @@
 # Assignment-7_UDP-PING
-Simulation of a PING test that runs on local, introducing artificially packets loss and delyas.
+Simulation of a PING test that runs on local, introducing artificially packets loss and delays.
 UDP Ping
 
 PING è una utility per la valutazione delle performance della rete utilizzata per verificare la raggiungibilità di un host su una rete IP e per misurare il round trip time (RTT) per i messaggi spediti da un host mittente verso un host destinazione.
